@@ -1,5 +1,7 @@
 const async = require('async');
 const axios = require('axios');
+
+//This dependencies are using in current project, where this example were took from, and will not present in current repository
 const common = require('_basePath_/common.js');
 const routing = require('_basePath_/server/config/routing.js');
 const login = require('_basePath_/system/Login');
